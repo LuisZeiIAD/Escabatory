@@ -99,6 +99,60 @@
         "name": "NewTiledSprite",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite3.png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite5.png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite6.png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
+        "name": "NewSprite7",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -187,7 +241,55 @@
     ]
   },
   "objectsGroups": [],
-  "variables": [],
+  "variables": [
+    {
+      "folded": true,
+      "name": "Bottom_Push_PullActive",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Top_Push_PullActive",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Left_Push_PullActive",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "Right_Push_PullActive",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Bottom_AllowPush_Pull",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Top_AllowPush_Pull",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Right_AllowPush_Pull",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Left_AllowPush_Pull",
+      "type": "boolean",
+      "value": false
+    }
+  ],
   "layouts": [
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
@@ -202,6 +304,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/externalEvents/collision"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/externalEvents/pushpull"
     }
   ],
   "eventsFunctionsExtensions": [],
