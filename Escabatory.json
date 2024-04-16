@@ -153,6 +153,87 @@
         "name": "NewSprite8",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 9.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 9.png\",\"extension\":\".png\"}",
+        "name": "Layer 9.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 10.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 10.png\",\"extension\":\".png\"}",
+        "name": "Layer 10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 11.png\",\"extension\":\".png\"}",
+        "name": "Layer 11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 12.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 12.png\",\"extension\":\".png\"}",
+        "name": "Layer 12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 13.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 13.png\",\"extension\":\".png\"}",
+        "name": "Layer 13.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 14.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 14.png\",\"extension\":\".png\"}",
+        "name": "Layer 14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 15.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 15.png\",\"extension\":\".png\"}",
+        "name": "Layer 15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 16.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer 16.png\",\"extension\":\".png\"}",
+        "name": "Layer 16.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Title Screen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Title Screen.png",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -294,6 +375,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/level1"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/titlescreen"
     }
   ],
   "externalEvents": [
