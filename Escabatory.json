@@ -234,6 +234,384 @@
         "name": "Title Screen.png",
         "smoothed": true,
         "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PlayButton.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"PlayButton.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "PlayButton.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SettingsButton.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "SettingsButton.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "PlayButton2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"PlayButton2.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "PlayButton2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "SettingsButton2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"SettingsButton2.png\",\"extension\":\".png\",\"pskl\":{}}",
+        "name": "SettingsButton2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer 1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer 2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer 3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer 4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer 4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Layer 1.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Layer 1.png\"}",
+        "name": "Layer 1",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Layer2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Layer2.png\"}",
+        "name": "Layer2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Layer3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Layer3.png\"}",
+        "name": "Layer3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Layer4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Layer4.png\"}",
+        "name": "Layer4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Layer5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Layer5.png\"}",
+        "name": "Layer5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer2.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer2.png\",\"extension\":\".png\"}",
+        "name": "Layer2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser1.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser2.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser3.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser4.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser7.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser8.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser10.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser11.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser12.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser12.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser13.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser13.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser14.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser14.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser15.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser15.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser16.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser16.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser17.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser17.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser18.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser18.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser19.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser19.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser20.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser20.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser21.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser21.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser22.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser22.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser23.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser23.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Laser24.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Laser24.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer5.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"Layer5.png\",\"extension\":\".png\"}",
+        "name": "Layer5.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Layer6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Layer6.png",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Idle2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Idle2",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -262,46 +640,299 @@
       "behaviors": [],
       "animations": [
         {
-          "name": "NewSprite",
+          "name": "Idle",
           "useMultipleDirections": false,
           "directions": [
             {
-              "looping": false,
+              "looping": true,
               "metadata": "{\"pskl\":{}}",
-              "timeBetweenFrames": 0.08,
+              "timeBetweenFrames": 0.45,
               "sprites": [
                 {
                   "hasCustomCollisionMask": true,
-                  "image": "NewSprite2",
+                  "image": "Idle",
                   "points": [],
                   "originPoint": {
                     "name": "origine",
-                    "x": 0,
-                    "y": 0
+                    "x": 227.5,
+                    "y": 243
                   },
                   "centerPoint": {
-                    "automatic": true,
+                    "automatic": false,
                     "name": "centre",
-                    "x": 0,
-                    "y": 0
+                    "x": 234.5,
+                    "y": 243
                   },
                   "customCollisionMask": [
                     [
                       {
-                        "x": 11,
-                        "y": 9
+                        "x": 222,
+                        "y": 143
                       },
                       {
-                        "x": 60,
-                        "y": 9
+                        "x": 366.5,
+                        "y": 281
                       },
                       {
-                        "x": 60,
-                        "y": 53
+                        "x": 222,
+                        "y": 345
+                      }
+                    ],
+                    [
+                      {
+                        "x": 85,
+                        "y": 280
                       },
                       {
-                        "x": 11,
-                        "y": 53
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Idle2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 227.5,
+                    "y": 243
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 234.5,
+                    "y": 243
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 366.5,
+                        "y": 281
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ],
+                    [
+                      {
+                        "x": 85,
+                        "y": 280
+                      },
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ]
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Move",
+          "useMultipleDirections": false,
+          "directions": [
+            {
+              "looping": true,
+              "metadata": "{\"pskl\":{}}",
+              "timeBetweenFrames": 0.18,
+              "sprites": [
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Layer2",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 227.5,
+                    "y": 243
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 234.5,
+                    "y": 243
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 366.5,
+                        "y": 281
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ],
+                    [
+                      {
+                        "x": 85,
+                        "y": 282
+                      },
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Layer3",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 227.5,
+                    "y": 243
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 234.5,
+                    "y": 243
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 366.5,
+                        "y": 281
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ],
+                    [
+                      {
+                        "x": 85,
+                        "y": 282
+                      },
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Layer4",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 227.5,
+                    "y": 243
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 234.5,
+                    "y": 243
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 366.5,
+                        "y": 281
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ],
+                    [
+                      {
+                        "x": 85,
+                        "y": 282
+                      },
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ]
+                  ]
+                },
+                {
+                  "hasCustomCollisionMask": true,
+                  "image": "Layer 1",
+                  "points": [],
+                  "originPoint": {
+                    "name": "origine",
+                    "x": 227.5,
+                    "y": 243
+                  },
+                  "centerPoint": {
+                    "automatic": false,
+                    "name": "centre",
+                    "x": 234.5,
+                    "y": 243
+                  },
+                  "customCollisionMask": [
+                    [
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 366.5,
+                        "y": 281
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
+                      }
+                    ],
+                    [
+                      {
+                        "x": 85,
+                        "y": 282
+                      },
+                      {
+                        "x": 222,
+                        "y": 143
+                      },
+                      {
+                        "x": 222,
+                        "y": 345
                       }
                     ]
                   ]
@@ -379,6 +1010,10 @@
     {
       "__REFERENCE_TO_SPLIT_OBJECT": true,
       "referenceTo": "/layouts/titlescreen"
+    },
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/layouts/settings"
     }
   ],
   "externalEvents": [
@@ -395,7 +1030,12 @@
       "referenceTo": "/externalEvents/pushpull"
     }
   ],
-  "eventsFunctionsExtensions": [],
+  "eventsFunctionsExtensions": [
+    {
+      "__REFERENCE_TO_SPLIT_OBJECT": true,
+      "referenceTo": "/eventsFunctionsExtensions/panelspritebutton"
+    }
+  ],
   "externalLayouts": [],
   "externalSourceFiles": []
 }

@@ -372,6 +372,17 @@
                 "Allow",
                 "False"
               ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "1"
+              ]
             }
           ]
         },
@@ -433,6 +444,17 @@
                 "Blob",
                 "Allow",
                 "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "1"
               ]
             }
           ]
@@ -496,6 +518,17 @@
                 "Allow",
                 "False"
               ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "1"
+              ]
             }
           ]
         },
@@ -557,6 +590,17 @@
                 "Blob",
                 "Allow",
                 "False"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "1"
               ]
             }
           ]
@@ -639,6 +683,84 @@
                 "Blob",
                 "Allow",
                 "True"
+              ]
+            },
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Blob",
+                "Move",
+                "True"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "disabled": true,
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+              },
+              "parameters": [
+                "Blob",
+                "Animation"
+              ]
+            },
+            {
+              "type": {
+                "value": "ObjectVariableAsBoolean"
+              },
+              "parameters": [
+                "Blob",
+                "Move",
+                "False"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AnimatableCapability::AnimatableBehavior::SetIndex"
+              },
+              "parameters": [
+                "Blob",
+                "Animation",
+                "=",
+                "0"
               ]
             }
           ]

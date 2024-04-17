@@ -590,6 +590,7 @@
       "colorG": 2,
       "colorR": 208,
       "creationTime": 0,
+      "folded": true,
       "name": "RightHandle",
       "source": "",
       "type": "BuiltinCommonInstructions::Group",
