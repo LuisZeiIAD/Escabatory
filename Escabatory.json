@@ -1,5 +1,5 @@
 {
-  "firstLayout": "",
+  "firstLayout": "TitleScreen",
   "gdVersion": {
     "build": 99,
     "major": 4,
@@ -25,7 +25,7 @@
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
-    "latestCompilationDirectory": "",
+    "latestCompilationDirectory": "D:\\Docs\\PuzzleGame\\BuildProto\\Web",
     "maxFPS": 60,
     "minFPS": 60,
     "verticalSync": false,
